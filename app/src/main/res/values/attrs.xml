@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularProgress">
+
+
+        <attr name="progress" format="float"/>
+        <attr name="progressTextSize" format="dimension"/>
+        <attr name="colorMode" format="enum">
+            <enum name="blue" value="0"></enum>
+            <enum name="red"  value="1"></enum>
+            <enum name="green"  value="2"></enum>
+        </attr>
+
+
+    </declare-styleable>
+</resources>
